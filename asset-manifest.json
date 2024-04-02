@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/WordCounter-App/static/css/main.13ac282b.css",
-    "main.js": "/.github.io/WordCounter-App/static/js/main.bfe39123.js",
-    "static/js/453.ed3810f9.chunk.js": "/.github.io/WordCounter-App/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/.github.io/WordCounter-App/index.html",
-    "main.13ac282b.css.map": "/.github.io/WordCounter-App/static/css/main.13ac282b.css.map",
-    "main.bfe39123.js.map": "/.github.io/WordCounter-App/static/js/main.bfe39123.js.map",
-    "453.ed3810f9.chunk.js.map": "/.github.io/WordCounter-App/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/WordCounter-App/static/css/main.13ac282b.css",
+    "main.js": "/WordCounter-App/static/js/main.1712bead.js",
+    "static/js/453.ed3810f9.chunk.js": "/WordCounter-App/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/WordCounter-App/index.html",
+    "main.13ac282b.css.map": "/WordCounter-App/static/css/main.13ac282b.css.map",
+    "main.1712bead.js.map": "/WordCounter-App/static/js/main.1712bead.js.map",
+    "453.ed3810f9.chunk.js.map": "/WordCounter-App/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13ac282b.css",
-    "static/js/main.bfe39123.js"
+    "static/js/main.1712bead.js"
   ]
 }
