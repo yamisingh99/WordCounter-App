@@ -1,60 +1,36 @@
-.header{
-  display: flex;
-  background-color: blueviolet;
-}
+/* App.css */
 
-.searchbox{
-  width: 50vh;
-  align-items: center;
-}
-
-.form-control{
-  width: 150vh;
-  height: 10vh;
-  align-items: center;
-  display: inline-block;
-}
-.header {
-  background-color: #333; /* Change the background color to your preference */
-  color: #fff; /* Text color */
-  padding: 10px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.header h1 {
-  font-size: 24px;
+body {
   margin: 0;
-}
-
-.icons {
-  list-style-type: none;
+  font-family: Arial, sans-serif;
   display: flex;
-  padding: 0;
+  flex-direction: column;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #3d3b9f, #e02f7c, #1e1e4f);
+  /* Linear gradient with dark purple, dark pink, and dark blue */
+  background-attachment: fixed; /* Optional: to keep the background fixed */
 }
 
-.icons li {
-  margin-right: 20px; /* Adjust the spacing between menu items */
-  font-weight: 500;
-  text-transform: uppercase; /* Convert text to uppercase */
-  cursor: pointer;
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto; /* Center container and provide margin */
+  padding: 20px;
+  max-width: 1000px; /* Adjust based on your design */
+  background: rgba(255, 255, 255, 0.1); /* Optional: semi-transparent white for contrast */
+  border-radius: 10px; /* Optional: rounded corners */
 }
 
-.icons li:last-child {
-  margin-right: 20px;
-}
-.icons li:hover {
-  color: yellow;
-}
-.searchbox {
-  margin-left: 150px;
-  justify-content: center; /* Horizontal centering */
-  align-items: center; /* Vertical centering */
-  height: 100vh; /* Makes sure it takes the full viewport height */
-  text-align: center; /* Center-align the form content */
+.Nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  background-color: #333; /* Dark background for navigation */
 }
 
-.form-inline {
-  max-width: 300px; /* Adjust this value based on your design */
+.TextForm {
+  width: 100%;
 }
